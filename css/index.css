@@ -180,6 +180,22 @@ body{
   font-weight: 300;
   color: #535353;
 }
+.menu_right ul li.search{
+   width: 50px;
+   height: 43px;
+   line-height: 43px;
+   float: left;
+   text-align: center;
+  font-size: 9px;
+  font-family: Microsoft YaHei;
+  font-weight: 300;
+  color: #535353;
+}
+.se{
+  width: 11px;
+  height: 11px;
+}
+
 .footer{
   position: fixed;
   bottom: 0;
