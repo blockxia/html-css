@@ -85,10 +85,11 @@ a {
 }
 body{
   background: #F7F8FC;
-  overflow: hidden;
+  /*overflow: hidden;*/
 }
 .wrap{
-
+/*position: relative;*/
+  /*overflow: hidden;*/
 }
 /*顶部灰色登录注册*/
 .tip{
@@ -197,8 +198,10 @@ body{
 }
 
 .footer{
-  position: fixed;
-  bottom: 0;
+  /*overflow: hidden;*/
+  /*height: 144px;*/
+  /*position: absolute;*/
+  /*bottom: 0;*/
   background: #050C24;
   box-sizing: border-box;
   width: 100%;
